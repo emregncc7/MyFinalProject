@@ -10,6 +10,6 @@ namespace Entites.Concrete
         public int CategoryId { get; set; }
         public string ProductName { get; set; }
         public short UnitsInStock { get; set; }
-        public decimal UnitePrice { get; set; }
+        public decimal UnitPrice { get; set; }
     }
 }
